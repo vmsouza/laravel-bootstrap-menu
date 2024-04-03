@@ -1,5 +1,5 @@
 <?php
-namespace hoaaah\LaravelMenu;
+namespace vmsouza\LaravelMenu;
 
 use Illuminate\Support\Facades\Request;
 use Illuminate\Support\Facades\Route;
