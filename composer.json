@@ -1,0 +1,23 @@
+{
+    "name": "vmsouza/laravel-bootstrap-menu",
+    "description": "A packages for create bootstrap menu dynamically.",
+    "authors": [
+        {
+            "name": "Heru Arief Wijaya",
+            "email": "heru@belajararief.com"
+        },
+        {
+            "name": "Vincius Souza",
+            "email": "vmsouza@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "vmsouza\\LaravelMenu\\": "src/"
+        }
+    }
+}
